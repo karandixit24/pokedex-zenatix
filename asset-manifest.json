@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokedex-zenatix/static/css/main.bb6b09ac.css",
+    "main.js": "/pokedex-zenatix/static/js/main.f51c5e74.js",
+    "index.html": "/pokedex-zenatix/index.html",
+    "main.bb6b09ac.css.map": "/pokedex-zenatix/static/css/main.bb6b09ac.css.map",
+    "main.f51c5e74.js.map": "/pokedex-zenatix/static/js/main.f51c5e74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb6b09ac.css",
+    "static/js/main.f51c5e74.js"
+  ]
+}
